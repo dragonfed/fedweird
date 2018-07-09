@@ -1,0 +1,32 @@
+body { 
+	color: orange;
+	font-family: arial;
+	background-color: ;
+	border:1px  solid black;
+}
+back
+
+h1 {
+	color: white;
+	margin: center;
+}
+
+ h2 {
+ 	color:
+ }
+label{
+	display: block;
+	
+}
+
+form input {
+	
+	margin-right: 15px;
+    margin-left: 10px; 
+    margin-bottom:20px;
+    font-family: sans-serif;
+
+}
+div{
+	background-color: blue;
+}
